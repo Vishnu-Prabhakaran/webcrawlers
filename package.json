@@ -1,0 +1,23 @@
+{
+  "name": "webcrawlers",
+  "version": "1.0.0",
+  "description": "Parsing webcrawlers from a website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishnu-Prabhakaran/webcrawlers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishnu-Prabhakaran/webcrawlers/issues"
+  },
+  "homepage": "https://github.com/Vishnu-Prabhakaran/webcrawlers#readme",
+  "dependencies": {
+    "robots-parser": "^2.1.1"
+  }
+}
