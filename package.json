@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/Vishnu-Prabhakaran/webcrawlers#readme",
   "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
     "robots-parser": "^2.1.1"
   }
 }
